@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/bun": "latest",
+    "@types/express": "^5.0.0"
+  },
+  "name": "todo",
+  "module": "index.ts",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
